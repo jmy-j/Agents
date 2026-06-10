@@ -1,0 +1,59 @@
+2026-06-10 17:55:43 - qa_assistant - INFO - 开始生成答案，步骤状态: search_failed
+2026-06-10 17:55:43 - qa_assistant - WARNING - 搜索失败，使用回退策略
+2026-06-10 17:55:43 - qa_assistant - INFO - 答案生成完成，长度: 7 字符
+2026-06-10 17:55:43 - qa_assistant - INFO - 开始生成答案，步骤状态: searched
+2026-06-10 17:55:43 - qa_assistant - INFO - 答案生成完成，长度: 15 字符
+2026-06-10 17:55:43 - qa_assistant - INFO - 开始Tavily搜索: Python
+2026-06-10 17:55:43 - qa_assistant - ERROR - 搜索失败: 网络错误
+2026-06-10 17:55:43 - qa_assistant - INFO - 开始Tavily搜索: Python
+2026-06-10 17:55:43 - qa_assistant - INFO - 搜索完成，获取到 1 条结果
+2026-06-10 17:55:43 - qa_assistant - INFO - 开始理解用户查询: 什么是Python？...
+2026-06-10 17:55:43 - qa_assistant - INFO - 生成搜索关键词: Python programming
+2026-06-10 18:01:58 - qa_assistant - INFO - 开始理解用户查询: 你是谁...
+2026-06-10 18:01:59 - qa_assistant - INFO - 生成搜索关键词: AI助手 介绍
+2026-06-10 18:01:59 - qa_assistant - INFO - 开始Tavily搜索: AI助手 介绍
+2026-06-10 18:02:02 - qa_assistant - INFO - 搜索完成，获取到 5 条结果
+2026-06-10 18:02:02 - qa_assistant - INFO - 开始生成答案，步骤状态: searched
+2026-06-10 18:02:08 - qa_assistant - INFO - 答案生成完成，长度: 593 字符
+2026-06-10 18:03:07 - qa_assistant - INFO - 开始理解用户查询: 从现在开始你叫赵洋...
+2026-06-10 18:03:09 - qa_assistant - INFO - 生成搜索关键词: 角色扮演 设定 赵洋
+2026-06-10 18:03:09 - qa_assistant - INFO - 开始Tavily搜索: 角色扮演 设定 赵洋
+2026-06-10 18:03:11 - qa_assistant - INFO - 搜索完成，获取到 5 条结果
+2026-06-10 18:03:11 - qa_assistant - INFO - 开始生成答案，步骤状态: searched
+2026-06-10 18:03:16 - qa_assistant - INFO - 答案生成完成，长度: 559 字符
+2026-06-10 18:04:36 - qa_assistant - INFO - 开始理解用户查询: 今天北京天气如何...
+2026-06-10 18:04:37 - qa_assistant - INFO - 生成搜索关键词: 北京今天天气
+2026-06-10 18:04:37 - qa_assistant - INFO - 开始Tavily搜索: 北京今天天气
+2026-06-10 18:04:38 - qa_assistant - INFO - 搜索完成，获取到 5 条结果
+2026-06-10 18:04:38 - qa_assistant - INFO - 开始生成答案，步骤状态: searched
+2026-06-10 18:04:40 - qa_assistant - INFO - 答案生成完成，长度: 114 字符
+2026-06-10 18:05:40 - qa_assistant - INFO - 开始理解用户查询: 帮我写一封道歉信...
+2026-06-10 18:05:42 - qa_assistant - INFO - 生成搜索关键词: 道歉信 范文
+2026-06-10 18:05:42 - qa_assistant - INFO - 开始Tavily搜索: 道歉信 范文
+2026-06-10 18:05:43 - qa_assistant - INFO - 搜索完成，获取到 5 条结果
+2026-06-10 18:05:43 - qa_assistant - INFO - 开始生成答案，步骤状态: searched
+2026-06-10 18:05:57 - qa_assistant - INFO - 答案生成完成，长度: 1596 字符
+2026-06-10 18:10:47 - qa_assistant - INFO - 开始理解用户查询: 你是谁...
+2026-06-10 18:10:49 - qa_assistant - INFO - 生成搜索关键词: AI助手 身份 介绍
+2026-06-10 18:10:49 - qa_assistant - INFO - 开始Tavily搜索: AI助手 身份 介绍
+2026-06-10 18:10:52 - qa_assistant - INFO - 搜索完成，获取到 5 条结果
+2026-06-10 18:10:52 - qa_assistant - INFO - 开始生成答案，步骤状态: searched
+2026-06-10 18:10:57 - qa_assistant - INFO - 答案生成完成，长度: 547 字符
+2026-06-10 18:11:12 - qa_assistant - INFO - 开始理解用户查询: 现在开始你叫赵洋...
+2026-06-10 18:11:13 - qa_assistant - INFO - 生成搜索关键词: AI 角色命名 设定
+2026-06-10 18:11:13 - qa_assistant - INFO - 开始Tavily搜索: AI 角色命名 设定
+2026-06-10 18:11:15 - qa_assistant - INFO - 搜索完成，获取到 5 条结果
+2026-06-10 18:11:15 - qa_assistant - INFO - 开始生成答案，步骤状态: searched
+2026-06-10 18:11:16 - qa_assistant - INFO - 答案生成完成，长度: 106 字符
+2026-06-10 18:11:25 - qa_assistant - INFO - 开始理解用户查询: 你是谁...
+2026-06-10 18:11:26 - qa_assistant - INFO - 生成搜索关键词: AI助手 身份介绍
+2026-06-10 18:11:26 - qa_assistant - INFO - 开始Tavily搜索: AI助手 身份介绍
+2026-06-10 18:11:28 - qa_assistant - INFO - 搜索完成，获取到 5 条结果
+2026-06-10 18:11:28 - qa_assistant - INFO - 开始生成答案，步骤状态: searched
+2026-06-10 18:11:34 - qa_assistant - INFO - 答案生成完成，长度: 577 字符
+2026-06-10 18:12:03 - qa_assistant - INFO - 开始理解用户查询: 我第一个和你对话的内容是什么...
+2026-06-10 18:12:04 - qa_assistant - INFO - 生成搜索关键词: 对话历史 第一条消息
+2026-06-10 18:12:04 - qa_assistant - INFO - 开始Tavily搜索: 对话历史 第一条消息
+2026-06-10 18:12:06 - qa_assistant - INFO - 搜索完成，获取到 5 条结果
+2026-06-10 18:12:06 - qa_assistant - INFO - 开始生成答案，步骤状态: searched
+2026-06-10 18:12:11 - qa_assistant - INFO - 答案生成完成，长度: 532 字符
